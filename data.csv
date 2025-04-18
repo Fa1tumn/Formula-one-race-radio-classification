@@ -1,0 +1,101 @@
+ID,Message,Category
+1,"Box this lap, we're switching to Plan B.",전략
+2,"Copy that, coming in at the end of this lap.",전략
+3,"The gap to P5 is 1.2 seconds and closing.",전략
+4,"Push now, we need 3 purple sectors.",전략
+5,"We need to manage these tires to the end, target lap time 1:22.5.",전략
+6,"Pit window is open, what do you think about the tires?",전략
+7,"Let's undercut Hamilton, box now, box now.",전략
+8,"Stay out, Verstappen just pitted, let's overcut.",전략
+9,"We're going long on this stint, target plus 5 laps.",전략
+10,"Safety car deployed, box now for softs.",전략
+11,"Track position is critical here, we'll go to the end on these tires.",전략
+12,"Gap to P2 is stable at 4.3 seconds, manage the pace.",전략
+13,"Blue flags for Alonso behind, don't lose time.",전략
+14,"Rain expected in 8 minutes, we're staying on slicks for now.",전략
+15,"DRS is enabled, use it on the main straight.",전략
+16,"We're switching to Plan C, confirm you understand.",전략
+17,"Attack mode now, use all available battery.",전략
+18,"Hold position, team orders, I repeat, hold position.",전략
+19,"Fuel saving mode delta, target minus 0.2 per lap.",전략
+20,"VSC ending, prepare to push.",전략
+21,"These blue flags are ridiculous!",불만
+22,"The balance is terrible, so much understeer.",불만
+23,"Tell him to give me more space! That was dangerous.",불만
+24,"What are we doing? This strategy is not working!",불만
+25,"Why did you bring me in? The tires were still good!",불만
+26,"This traffic is costing us so much time!",불만
+27,"He's blocking me! Ask race control to look at it.",불만
+28,"I can't follow in this dirty air, the car is overheating.",불만
+29,"The brakes are inconsistent, I can't trust them.",불만
+30,"This engine mode is too slow, I'm a sitting duck on the straights.",불만
+31,"What is the guy in front doing? He's all over the place!",불만
+32,"The rear is so nervous on corner entry, I can't push.",불만
+33,"These kerbs are destroying the floor, we need to avoid them.",불만
+34,"I'm getting no traction out of turn 4, something's wrong.",불만
+35,"The team radio is cutting out, I can barely hear you.",불만
+36,"Why are we on these tires? Everyone else is on softs!",불만
+37,"There's so much porpoising down the straight, it's unbearable.",불만
+38,"The car feels like a boat in these wet conditions.",불만
+39,"This penalty is unfair! I left enough space!",불만
+40,"The backmarkers are not respecting blue flags at all!",불만
+41,"Rear tire pressures dropping, keep an eye on it.",차량 상태
+42,"Engine temperatures rising, we need to manage this.",차량 상태
+43,"Battery state is optimal, you can use overtake button.",차량 상태
+44,"Front left brake temperature critical, lift and coast into turn 1.",차량 상태
+45,"MGUK harvesting is limited, we're investigating.",차량 상태
+46,"Loss of hydraulic pressure, use minimal steering input.",차량 상태
+47,"Oil temperature stable now, good job managing it.",차량 상태
+48,"Fuel flow is inconsistent, we may need to switch sensors.",차량 상태
+49,"DRS failure confirmed, we can't fix it during the race.",차량 상태
+50,"Wind direction changed, expect more oversteer in turn 7.",차량 상태
+51,"Cooling is marginal but under control for now.",차량 상태
+52,"Water pressure dropping slightly, please minimize kerb usage.",차량 상태
+53,"ERS deployment optimized for this lap, full power available.",차량 상태
+54,"Front wing damage detected, but aero figures still acceptable.",차량 상태
+55,"Suspension is holding up after that bump, data looks okay.",차량 상태
+56,"Power unit temperature back in the window, good management.",차량 상태
+57,"Tire wear 10% higher than predicted, adjust your driving.",차량 상태
+58,"Brake balance shift recommended, try forward two clicks.",차량 상태
+59,"We've lost some downforce, possibly floor damage.",차량 상태
+60,"Battery temperature rising, we need to manage energy deployment.",차량 상태
+61,"Great job! That was a perfect lap!",격려
+62,"Keep pushing, you're the fastest car on track right now.",격려
+63,"Brilliant overtake! Now let's catch the next one.",격려
+64,"You're doing a fantastic job managing these tires.",격려
+65,"That's exactly what we needed, perfect execution.",격려
+66,"Stay focused, you're driving beautifully today.",격려
+67,"We believe in you, just keep it clean to the finish.",격려
+68,"Amazing pace in these conditions, you're making the difference.",격려
+69,"Outstanding first sector, you've found something there!",격려
+70,"Don't give up, we can still fight for points here.",격려
+71,"Your feedback is really helping us improve the car, thank you.",격려
+72,"That defensive driving was textbook, well done.",격려
+73,"You're extracting everything from the package, the team is proud.",격려
+74,"Keep your head down, this strategy will pay off in the end.",격려
+75,"Perfect timing on that overtake, you made it look easy.",격려
+76,"Trust your instincts, they're serving you well today.",격려
+77,"The whole team is behind you, let's bring this home.",격려
+78,"You're in the zone today, fantastic rhythm.",격려
+79,"The gap is coming down, you're reeling them in!",격려
+80,"Controlled, precise, and fast - that's what we like to see.",격려
+81,"Spotters reporting rain at turn 9, be prepared.",전략
+82,"Box opposite to what Leclerc does this lap.",전략
+83,"We need to extend this stint by 2 laps to cover Perez.",전략
+84,"The medium compound should last 25 laps, we're targeting 28.",전략
+85,"Use overtake button on the exit of turn 11 for best effect.",전략
+86,"These vibrations are getting worse, I might not finish the race!",불만
+87,"There's something wrong with the power delivery, very inconsistent.",불만
+88,"I can't believe we're staying out on these worn tires!",불만
+89,"This is the worst handling I've experienced all season.",불만
+90,"Everyone else got fresh tires under VSC except us!",불만
+91,"Headwind on the main straight, top speed reduced by 3 kph.",차량 상태
+92,"Torque delivery smoother after mode change, good improvement.",차량 상태
+93,"Front tire degradation higher than expected, especially right side.",차량 상태
+94,"Gearbox temperatures stabilizing, shifts should feel better now.",차량 상태
+95,"Small water leak detected, we need to monitor temperatures closely.",차량 상태
+96,"You're outperforming the car today, absolutely stellar drive.",격려
+97,"That lap time puts you firmly in contention, beautiful work.",격려
+98,"The consistency of your driving is impressive, keep it going.",격려
+99,"Perfect positioning through sector two, you've mastered it.",격려
+100,"Everyone in the garage is on their feet after that performance!",격려
