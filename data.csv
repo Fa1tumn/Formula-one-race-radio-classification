@@ -1,101 +1,41 @@
 ID,Message,Category
-1,"Box this lap, we're switching to Plan B.",진입 명령
-2,"Box now, box now for softs.",진입 명령
-3,"Copy that, coming in at the end of this lap.",진입 명령
-4,"Stay out, stay out, abort pit stop.",진입 명령
-5,"Pit confirm, pit confirm.",진입 명령
-6,"Box opposite to what Leclerc does this lap.",진입 명령
-7,"Let's undercut Hamilton, box now, box now.",진입 명령
-8,"Safety car deployed, box now for softs.",진입 명령
-9,"Box this lap, box box box.",진입 명령
-10,"Box now, we need to react to Verstappen.",진입 명령
-11,"Box now for intermediates, rain is getting heavier.",진입 명령
-12,"We'll pit in two laps, prepare for a front wing change.",진입 명령
-13,"Virtual safety car, box now, box now.",진입 명령
-14,"The undercut is powerful here, box this lap.",진입 명령
-15,"Staying out, staying out, this tire has more life.",진입 명령
-16,"Pit next lap for the prime tire, acknowledge.",진입 명령
-17,"Box when you feel it's right, your call on slicks.",진입 명령
-18,"Box this lap, we need to cover Alonso's stop.",진입 명령
-19,"Pit now for mediums, we have a gap in traffic.",진입 명령
-20,"Box box box, slow puncture suspected.",진입 명령
-21,"Rear tire pressures dropping, keep an eye on it.",차량 상태
-22,"Engine temperatures rising, we need to manage this.",차량 상태
-23,"Battery state is optimal, you can use overtake button.",차량 상태
-24,"Front left brake temperature critical, lift and coast into turn 1.",차량 상태
-25,"MGUK harvesting is limited, we're investigating.",차량 상태
-26,"Loss of hydraulic pressure, use minimal steering input.",차량 상태
-27,"Oil temperature stable now, good job managing it.",차량 상태
-28,"Fuel flow is inconsistent, we may need to switch sensors.",차량 상태
-29,"DRS failure confirmed, we can't fix it during the race.",차량 상태
-30,"Wind direction changed, expect more oversteer in turn 7.",차량 상태
-31,"Cooling is marginal but under control for now.",차량 상태
-32,"Water pressure dropping slightly, please minimize kerb usage.",차량 상태
-33,"ERS deployment optimized for this lap, full power available.",차량 상태
-34,"Front wing damage detected, but aero figures still acceptable.",차량 상태
-35,"Suspension is holding up after that bump, data looks okay.",차량 상태
-36,"Power unit temperature back in the window, good management.",차량 상태
-37,"Tire wear 10% higher than predicted, adjust your driving.",차량 상태
-38,"Brake balance shift recommended, try forward two clicks.",차량 상태
-39,"We've lost some downforce, possibly floor damage.",차량 상태
-40,"Battery temperature rising, we need to manage energy deployment.",차량 상태
-41,"These blue flags are ridiculous!",불만/요청
-42,"The balance is terrible, so much understeer.",불만/요청
-43,"Tell him to give me more space! That was dangerous.",불만/요청
-44,"What are we doing? This strategy is not working!",불만/요청
-45,"Why did you bring me in? The tires were still good!",불만/요청
-46,"This traffic is costing us so much time!",불만/요청
-47,"He's blocking me! Ask race control to look at it.",불만/요청
-48,"I can't follow in this dirty air, the car is overheating.",불만/요청
-49,"The brakes are inconsistent, I can't trust them.",불만/요청
-50,"This engine mode is too slow, I'm a sitting duck on the straights.",불만/요청
-51,"What is the guy in front doing? He's all over the place!",불만/요청
-52,"The rear is so nervous on corner entry, I can't push.",불만/요청
-53,"These kerbs are destroying the floor, we need to avoid them.",불만/요청
-54,"I'm getting no traction out of turn 4, something's wrong.",불만/요청
-55,"Can I get a drink? The button isn't working.",불만/요청
-56,"Why are we on these tires? Everyone else is on softs!",불만/요청
-57,"There's so much porpoising down the straight, it's unbearable.",불만/요청
-58,"Can we try something different with the strategy?",불만/요청
-59,"This penalty is unfair! I left enough space!",불만/요청
-60,"I need more information about the gap behind, please.",불만/요청
-61,"The gap to P5 is 1.2 seconds and closing.",전략/전술
-62,"Push now, we need 3 purple sectors.",전략/전술
-63,"We need to manage these tires to the end, target lap time 1:22.5.",전략/전술
-64,"Pit window is open, what do you think about the tires?",전략/전술
-65,"Stay out, Verstappen just pitted, let's overcut.",전략/전술
-66,"We're going long on this stint, target plus 5 laps.",전략/전술
-67,"Track position is critical here, we'll go to the end on these tires.",전략/전술
-68,"Gap to P2 is stable at 4.3 seconds, manage the pace.",전략/전술
-69,"Blue flags for Alonso behind, don't lose time.",전략/전술
-70,"Rain expected in 8 minutes, we're staying on slicks for now.",전략/전술
-71,"DRS is enabled, use it on the main straight.",전략/전술
-72,"We're switching to Plan C, confirm you understand.",전략/전술
-73,"Attack mode now, use all available battery.",전략/전술
-74,"Hold position, team orders, I repeat, hold position.",전략/전술
-75,"Fuel saving mode delta, target minus 0.2 per lap.",전략/전술
-76,"VSC ending, prepare to push.",전략/전술
-77,"We need to extend this stint by 2 laps to cover Perez.",전략/전술
-78,"The medium compound should last 25 laps, we're targeting 28.",전략/전술
-79,"Use overtake button on the exit of turn 11 for best effect.",전략/전술
-80,"Defending position is priority, focus on exit speed.",전략/전술
-81,"Great job! That was a perfect lap!",격려
-82,"Keep pushing, you're the fastest car on track right now.",격려
-83,"Brilliant overtake! Now let's catch the next one.",격려
-84,"You're doing a fantastic job managing these tires.",격려
-85,"That's exactly what we needed, perfect execution.",격려
-86,"Stay focused, you're driving beautifully today.",격려
-87,"We believe in you, just keep it clean to the finish.",격려
-88,"Amazing pace in these conditions, you're making the difference.",격려
-89,"Outstanding first sector, you've found something there!",격려
-90,"Don't give up, we can still fight for points here.",격려
-91,"Your feedback is really helping us improve the car, thank you.",격려
-92,"That defensive driving was textbook, well done.",격려
-93,"You're extracting everything from the package, the team is proud.",격려
-94,"Keep your head down, this strategy will pay off in the end.",격려
-95,"Perfect timing on that overtake, you made it look easy.",격려
-96,"Trust your instincts, they're serving you well today.",격려
-97,"The whole team is behind you, let's bring this home.",격려
-98,"You're in the zone today, fantastic rhythm.",격려
-99,"The gap is coming down, you're reeling them in!",격려
-100,"Controlled, precise, and fast - that's what we like to see.",격려
+1,Lean on tyres to turn four.,차량 조작 지시
+2,Make a gap so you can weave on this straight and then we’ll have a lift and brake into 11.,차량 조작 지시
+3,We’ll need a 1.50 lift into turn 10.,차량 조작 지시
+4,Brake into 8. Easy through 8.,차량 조작 지시
+5,No full pedal from now.,차량 조작 지시
+6,I have understeer at turn 80 and oversteer at turn 80.,차량 상태 피드백
+7,Everything is overheating.,차량 상태 피드백
+8,"I don’t like the feedback on the start. Yeah, it’s too deep.",차량 상태 피드백
+9,Front’s still too cold. Just had a test.,차량 상태 피드백
+10,This tyre sucks.,차량 상태 피드백
+11,We are boxing for hard tyres.,타이어 관련
+12,Keep working those tyres.,타이어 관련
+13,Focusing on putting temperature on these tyres.,타이어 관련
+14,Medium tyres through 11 and 12.,타이어 관련
+15,Our tyres are on mode 3A.,타이어 관련
+16,box box box.,전략 및 계획
+17,Plan 12. Plus 0.5.,전략 및 계획
+18,"We are plan B, target lap, both safety car windows are open.",전략 및 계획
+19,We’ll box this lap.,전략 및 계획
+20,Next tyres will be a hard ollie.,전략 및 계획
+21,"You have clear, clear now. The car ahead is Stroll in turn 2.",트랙/상대 정보
+22,Wind is reducing. Wind is reduced 5 kph.,트랙/상대 정보
+23,Everyone slow ahead.,트랙/상대 정보
+24,Lando is over his grid box.,트랙/상대 정보
+25,Isaac has DRS behind.,트랙/상대 정보
+26,"WooHoo, let’s go baby! Love that.",감성/개인 표현
+27,I am stupid. I switching off everything.,감성/개인 표현
+28,Simple as that. What do you think? Do you think that was a Smooth operator~,감성/개인 표현
+29,"Yeah leave me alone, Ricky.",감성/개인 표현
+30,"What a race, P13 to P3. That’s why you should never give up.",감성/개인 표현
+31,"There is a chance we lose the dash, if that happens just keep driving.",시스템/하드웨어 문제
+32,"Gears are ****, what’s going on?",시스템/하드웨어 문제
+33,"It felt all under control, and then we had a brake by wire failure.",시스템/하드웨어 문제
+34,"Gears are ****, what’s going on?",시스템/하드웨어 문제
+35,"Gears are ****, what’s going on?",시스템/하드웨어 문제
+36,"Turn 10, good improvement. Turn 4, we’re losing 40 milliseconds compared to Lewis.",데이터 피드백/비교
+37,"Comparator on target paces and cars ahead, 37. med 37.",데이터 피드백/비교
+38,"Turn 10, good improvement. Turn 4, we’re losing 40 milliseconds compared to Lewis.",데이터 피드백/비교
+39,"Turn 10, good improvement. Turn 4, we’re losing 40 milliseconds compared to Lewis.",데이터 피드백/비교
+40,"Turn 10, good improvement. Turn 4, we’re losing 40 milliseconds compared to Lewis.",데이터 피드백/비교
